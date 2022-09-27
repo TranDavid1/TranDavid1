@@ -1,8 +1,6 @@
 Hi there,
 
-My name is David and I am a recent graduate from Cal Poly Pomona with a Bachelor's in Computer Science.
-
-I am currently seeking a position as a professional in the software engineering industry.
+My name is David and I am I am currently seeking a position as a professional in the software engineering industry.
 
 I have professional experience with using AWS services, Node.js, and SQL.
 
