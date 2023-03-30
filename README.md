@@ -1,6 +1,6 @@
 Hi there,
 
-My name is David and I am I am currently seeking a position as a professional in the software engineering industry.
+My name is David and I am currently seeking a position as a professional in the software engineering industry.
 
 I have professional experience with using AWS, Node.js, and SQL.
 
