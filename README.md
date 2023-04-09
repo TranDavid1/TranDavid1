@@ -10,6 +10,6 @@ I also have proficient knowledge of SQL and experience in designing, implementin
 
 Additionally, I have experience using Java, C++, and Python for programming, algorithm design, and logic building.
 
-I hold a Bachelor's Degree in Computer Science from Cal Poly Pomona, where I took courses in key areas such as Data Structures and Algorithms, Software Engineering, Graphical User Interfaces, and C++ Programming.
+I hold a Bachelor's Degree in Computer Science from Cal Poly Pomona, where I took courses in key areas such as Data Structures and Algorithms, Software Engineering, Database Systems, and C++ Programming.
 
 Please feel free to email me at dtrancpp@gmail.com or contact me on [LinkedIn](https://www.linkedin.com/in/tran-david1/).
