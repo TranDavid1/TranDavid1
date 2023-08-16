@@ -1,6 +1,6 @@
 Hello,
 
-My name is David and I am currently seeking a software engineer position at a company that will allow me to continue to learn and grow.
+My name is David and I am a software engineer that seeks to continue to learn and grow.
 
 I am an AWS Certified Developer - Associate with professional experience developing and deploying serverless Node.js applications on AWS.
 
