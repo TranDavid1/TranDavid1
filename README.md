@@ -1,4 +1,4 @@
-Hello,
+Hi there,
 
 My name is David and I am a software engineer that seeks to continue to learn and grow.
 
