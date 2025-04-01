@@ -1,15 +1,13 @@
-Hi there,
+👋 Hey, I'm David
 
-My name is David and I am a software engineer always looking to learn and grow.
+I'm a software engineer who loves building clean, efficient systems that solve real-world problems. I have professional experience shipping full-stack features, scaling backend services, and deploying serverless applications in production.
 
-I am an AWS Certified Developer - Associate with professional experience developing and deploying serverless Node.js applications on AWS.
+I'm an AWS Certified Developer – Associate with hands-on experience deploying and managing serverless architectures using Node.js, Lambda, API Gateway, and more. On the frontend, I work comfortably with React, HTML/CSS, and modern UI frameworks.
 
-I am proficient in using React.js, HTML, and CSS for front-end development.
+In the backend world, I've worked extensively with Python (Django), Java, and SQL, including designing and optimizing relational databases and complex queries. I also have experience working in Dockerized environments and collaborating across cross-functional teams.
 
-I also have proficient knowledge of SQL and experience in designing, implementing, and optimizing SQL queries for database management.
+🧠 CS Degree from Cal Poly Pomona, where I studied core topics like Data Structures & Algorithms, Software Engineering, and Database Systems.
 
-Additionally, I have experience using Java, C++, and Python for programming, algorithm design, and logic building.
+Outside of work, I'm always exploring new tools, leveling up my skills, and contributing to side projects and experiments.
 
-I hold a Bachelor's Degree in Computer Science from Cal Poly Pomona, where I took courses in key areas such as Data Structures and Algorithms, Software Engineering, Database Systems, and C++ Programming.
-
-Please feel free to email me at dtrancpp@gmail.com or contact me on [LinkedIn](https://www.linkedin.com/in/tran-david1/).
+📬 Reach out at dtrancpp@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/tran-david1/)
