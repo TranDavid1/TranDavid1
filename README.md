@@ -1,13 +1,15 @@
-👋 Hey, I'm David
+David Tran
 
-I'm a software engineer who loves building clean, efficient systems that solve real-world problems. I have professional experience shipping full-stack features, scaling backend services, and deploying serverless applications in production.
+Software Engineer with experience building and supporting scalable, production-grade systems across cloud and full-stack environments. I’ve shipped backend features, improved API orchestration, and supported distributed systems in AWS-based architectures.
 
-I'm an AWS Certified Developer – Associate with hands-on experience deploying and managing serverless architectures using Node.js, Lambda, API Gateway, and more. On the frontend, I work comfortably with React, HTML/CSS, and modern UI frameworks.
+At Soapbox, I worked closely with engineering and product teams to investigate complex production issues, improve backend reliability, and support integrations with third-party services such as EasyPost. My work often required deep debugging across APIs, database queries, and cloud infrastructure to identify root causes and implement long-term fixes.
 
-In the backend world, I've worked extensively with Python (Django), Java, and SQL, including designing and optimizing relational databases and complex queries. I also have experience working in Dockerized environments and collaborating across cross-functional teams.
+Previously at Concentrix, I developed voice-driven call automation systems using Amazon Connect, AWS Lambda, and Node.js, helping deliver serverless solutions in a production AWS environment. I also contributed to web messaging bots and backend API orchestration, working within Agile teams to ship reliable customer-facing features.
 
-🧠 CS Degree from Cal Poly Pomona, where I studied core topics like Data Structures & Algorithms, Software Engineering, and Database Systems.
+I have hands-on experience building and deploying cloud-native systems in AWS, working with Node.js, Python (Django), Java, and SQL. My background includes designing relational databases, optimizing queries, and developing backend services that prioritize maintainability and performance. I’m comfortable working in Dockerized environments and collaborating across cross-functional teams.
 
-Outside of work, I'm always exploring new tools, leveling up my skills, and contributing to side projects and experiments.
+I hold a B.S. in Computer Science from Cal Poly Pomona, with a strong foundation in Data Structures & Algorithms, Software Engineering, and Database Systems.
 
-📬 Reach out at dtrancpp@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/tran-david1/)
+Outside of work, I enjoy exploring new technologies and building practical tools that solve real-world problems.
+
+📬 Reach out at david.tran.developer@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/tran-david1/)
